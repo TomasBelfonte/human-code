@@ -23,8 +23,10 @@ Lasagne alla Bolognese:
     -prendere(1 confezione) Brodo vegetale pronto
  
 -prendere Olio extravergine d'oliva 1 cucchiaio
--prendere Sale fino q.b.
--prendere Pepe nero q.b.
+-prendere Sale fino
+ - pesare (20gr)
+-prendere Pepe nero
+ - pesare (20gr)
 -prendere un coltello
 -prendere un tagliere
 -prendere brodo vegetale
